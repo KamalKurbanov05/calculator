@@ -1,5 +1,6 @@
-import math
+# author Kamal Kurbanov
 
+import math
 
 def is_digit(string):
     try:
